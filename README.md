@@ -11,6 +11,7 @@
 
 1. 需要安装PIL以及pytesseract库
 2. 需要安装[google tesseract-ocr](https://code.google.com/p/tesseract-ocr/)
+3. 需要安装[tesseract 中文字符库:chi_sim]()
 
 ## Update
 
